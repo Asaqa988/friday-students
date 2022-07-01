@@ -1,0 +1,19 @@
+1- pip install virtualenv
+
+2- virtualenv name it
+
+3- python -m venv name it
+we can replace step 2 with step 3
+
+4-Scripts\activate
+5- pip install django 
+
+6- django-admin startproject name it
+7-cd project name
+8- python manage.py runserver
+9- python manage.py migrate
+10- Scripts\activate
+
+11-cd to projectname 
+
+12- python manage.py startapp pages 
